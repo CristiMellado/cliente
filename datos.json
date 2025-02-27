@@ -1,0 +1,38 @@
+[
+    {
+      "imagen": "img/primavera.jpeg", 
+      "marca": "Vespa",
+      "modelo": "Primavera",
+      "cilindrada": 125,
+      "precio": 5399
+    },
+    {
+     "imagen": "img/Sprint.jpeg", 
+      "marca": "Vespa",
+      "modelo": "Sprint",
+      "cilindrada": 125,
+      "precio": 5399
+    },
+    {
+      "imagen": "img/GTS.jpeg",   
+      "marca": "Vespa",
+      "modelo": "GTS",
+      "cilindrada": 310,
+      "precio": 7199
+    },
+    {
+      "imagen": "img/GTV.jpeg",   
+      "marca": "Vespa",
+      "modelo": "GTV",
+      "cilindrada": 300,
+      "precio": 7499
+    },
+    {
+      "imagen": "img/dragon.jpeg", 
+      "marca": "Vespa",
+      "modelo": "Dragon",
+      "cilindrada": 125,
+      "precio": 1200
+    }
+  ]
+  
